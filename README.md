@@ -4,7 +4,7 @@ Classification of music genres using a Convolutional Neural Network.
 ## Resources on VAEs in Python
 
 - [General tutorial on VAEs with tensorflow](https://learnopencv.com/variational-autoencoder-in-tensorflow/).
-- [Generate music with VAEs](https://www.kaggle.com/code/basu369victor/generate-music-with-variational-autoencoder) using the (GTZAN Dataset)[https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification/code].
+- [Generate music with VAEs](https://www.kaggle.com/code/basu369victor/generate-music-with-variational-autoencoder) using the [GTZAN Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification/code).
 
 ## Possible workflow
 
